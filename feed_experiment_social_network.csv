@@ -1,0 +1,8 @@
+source,target,weight
+user1,user3,0.7
+user1,user5,0.6
+user2,user4,0.8
+user3,user5,0.5
+user4,user5,0.4
+user_2,user_3,0.7698481917808628
+user_4,user_5,0.944546007525142
